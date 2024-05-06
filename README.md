@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1117536584498167898)](https://discord.com/users/1117536584498167898)
 
-<h1>Burjuva's Portofolio<h1>
+<h1>Burjuva's Portfolio<h1>
 
 <h2>Who is Burjuva?</h2>
 
