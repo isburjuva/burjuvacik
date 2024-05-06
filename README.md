@@ -3,7 +3,7 @@
 <h1>Burjuva's Portfolio<h1>
 
 <h2>Who is Burjuva?</h2>
-<h2>Burjuva is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Burjuva's bot services.</h2>
+<h2 style="color:blue" >Burjuva is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Burjuva's bot services.With Burjuva quality and assurance.</h2>
 
 
 ```js
