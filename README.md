@@ -3,7 +3,7 @@
 <h1>Burjuva's Portfolio<h1>
 
 <h2>Who is Burjuva?</h2>
-
+<h3>Burjuva is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Burjuva's bot services.<h3>
 ```js
 class Burjuva {
     constructor(options) {
