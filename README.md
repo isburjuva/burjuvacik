@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1117536584498167898)](https://discord.com/users/1117536584498167898)
 
-<h1 style="color: blueviolet;" >Burjuva's Portfolio<h1>
+<H1 style="color: blueviolet;">Burjuva's Portofolio</H1>
 
 <h2>Who is Burjuva?</h2>
 <h2 ">Burjuva is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Burjuva's bot services.With Burjuva quality and assurance.</h2>
