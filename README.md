@@ -17,6 +17,7 @@ class Burjuva {
         this.weight = "74",
         this.age = "18",
         this.skills = "A Simple Software Developer.",
+        this.nationality = "Turkish.",
         this.discord.tag = "isburjuva"
     };
 }
