@@ -1,7 +1,3 @@
-<H1>You can click the "My Discord Profile" button below to see my Discord profile.<H1>
-
-[My Discord Profile](https://discord.com/users/1117536584498167898)
-
 <H1>Burjuva's Portofolio</H1>
 
 <h2>Who is Burjuva?</h2>
@@ -25,4 +21,8 @@ class Burjuva {
 }
 
 module.exports = Burjuva
+
+<H1>You can click the "My Discord Profile" button below to see my Discord profile.<H1>
+
+[My Discord Profile](https://discord.com/users/1117536584498167898)
 ```
