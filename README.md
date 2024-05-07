@@ -1,7 +1,7 @@
-<H1>Burjuva's Portofolio</H1>
+<H2>Burjuva's Portofolio</H2>
 
-<h2>Who is Burjuva?</h2>
-<h2 ">Burjuva is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Burjuva's bot services.You can feel safe with Burjuva quality and assurance.</h2>
+<h3>Who is Burjuva?</h3>
+<h4>Burjuva is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Burjuva's bot services.You can feel safe with Burjuva quality and assurance.</h4>
 
 
 ```js
@@ -23,7 +23,7 @@ class Burjuva {
 module.exports = Burjuva
 ```
 
-<H6>You can click the "My Discord Profile" button below to see my Discord profile.<H6>
+<H5>You can click the "My Discord Profile" button below to see my Discord profile.<H5>
 
 [My Discord Profile](https://discord.com/users/1117536584498167898)
 ```
