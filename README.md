@@ -1,4 +1,4 @@
-[(https://lanyard.cnrad.dev/api/1117536584498167898)](https://discord.com/users/1117536584498167898)
+[![(https://lanyard.cnrad.dev/api/1117536584498167898)](https://discord.com/users/1117536584498167898)
 
 <H1 style="color: blueviolet;">Burjuva's Portofolio</H1>
 
