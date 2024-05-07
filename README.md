@@ -21,6 +21,7 @@ class Burjuva {
 }
 
 module.exports = Burjuva
+```
 
 <H1>You can click the "My Discord Profile" button below to see my Discord profile.<H1>
 
