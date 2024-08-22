@@ -1,7 +1,7 @@
 <H2>Luxes's Portofolio</H2>
 
 <h3>Who is Luxes?</h3>
-<h4>Luxes? is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Burjuva's bot services.You can feel safe with Burjuva quality and assurance.</h4>
+<h4>Luxes? is a simple bot developer. In the digital age, you cannot find a service as cheap, fast and of high quality as Luxes's bot services.You can feel safe with Burjuva quality and assurance.</h4>
 
 
 ```js
